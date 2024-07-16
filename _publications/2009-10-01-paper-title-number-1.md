@@ -2,7 +2,6 @@
 title: "Inspiraling streams of enriched gas observed around a massive galaxy 11 billion years ago"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-04
 venue: 'Science, 380, 494'
 paperurl: 'https://www.science.org/doi/10.1126/science.abj9192'
