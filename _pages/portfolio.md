@@ -34,6 +34,6 @@ Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emi
 
 **Intro:** Although the CGM extended emissions around the high-z quasars have been widely observed and studied through the Integral field spectrograph (IFS) ($$\sim 600$$ quasars), no statistical observations on the high-z obscured active galactic nucleus (AGN) are done yet. 
 In this study, we, thus, performed the first statistical study on the obscured AGN at $$z=2-3$$ through the KCWI public archival data which is obtained in 2017-2022. 
-This study provides people with the first glance at the cool gas around the obscured AGN and deepen our understanding about the galaxy-CGM ecosystem at high redshift. (*In prep.*)
+This study provides people with the first glance at the cool gas around the obscured AGN and deepens our understanding of the galaxy-CGM ecosystem at high redshift. (*In prep.*)
 
 ![fig_zhang2024b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024b.png)
