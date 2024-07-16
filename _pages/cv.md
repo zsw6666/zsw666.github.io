@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Please find the pdf version [here](https://zsw6666.github.io/zsw666.github.io/files/resume_astro_en.pdf)
 
 {% include base_path %}
 
