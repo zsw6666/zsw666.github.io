@@ -39,7 +39,7 @@ Talks
 * X-talk & DOA Lunch Talk, Jun. 2023, China
   * *Invited talk: Studying the Circumgalactic Medium (CGM) Through Observations, Cosmological Simulations, and Semi-analytic Model*
 * Astronomical Computing Workshop, Mar. 2024, China
-  * *Invited talk: Studying the Circumgalactic Medium (CGM) and galaxy Ecosystem through the Extended Emission (SCAME$^{3}$)*
+  * *Invited talk: Studying the Circumgalactic Medium (CGM) and galaxy Ecosystem through the Extended Emission (SCAME$$^{3}$$)*
 * Chinese Space Station Telescope (CSST) Annual Conference, May 2024, China
   * *Invited talk: Studying the metal-enriched Circumgalactic Medium (CGM) through the Extended Emissions and CSST prospect*
  
