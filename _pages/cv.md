@@ -45,19 +45,15 @@ Talks
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Data reduction:** Keck/KCWI, optical IFS; VLT/MUSE optical IFS; LBT/LBC optical imaging
+* **Simulation data analysis: ** IllustrisTNG; FIRE; RASCAS; YT-project
+* **Programming Language: ** Python (Fluent); [Shell, C] (Basic)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Teaching Assistant in Advanced Observational Astrophysics for Graduate, 2019 Spring
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* I co-organized the Galaxy and Cosmology workshop at DoA, Tsinghua University, Mar. 2022 - Jun. 2022
+* I co-organized the Student Seminar at DoA, Tsinghua University, Sep. 2019 - Dec. 2019
