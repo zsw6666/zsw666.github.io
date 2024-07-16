@@ -9,3 +9,4 @@ Inspiraling streams of enriched gas observed around a massive galaxy 11 billion 
 
 **Abstract:** Stars form in galaxies, from gas that has been accreted from the intergalactic medium. Simulations have shown that recycling of gas—the reaccretion of gas that was previously ejected from a galaxy—could sustain star formation in the early Universe. We observe the gas surrounding a massive galaxy at redshift 2.3 and detect emission lines from neutral hydrogen, helium, and ionized carbon that extend 100 kiloparsecs from the galaxy. The kinematics of this circumgalactic gas is consistent with an inspiraling stream. The carbon abundance indicates that the gas had already been enriched with elements heavier than helium, previously ejected from a galaxy. We interpret the results as evidence of gas recycling during high-redshift galaxy assembly.
 
+![Image of the extended line emissions](/images/Zhang2023a.png)
