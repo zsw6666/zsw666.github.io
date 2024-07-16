@@ -46,8 +46,8 @@ Talks
 Skills
 ======
 * **Data reduction:** Keck/KCWI, optical IFS; VLT/MUSE optical IFS; LBT/LBC optical imaging
-* **Simulation data analysis: ** IllustrisTNG; FIRE; RASCAS; YT-project
-* **Programming Language: ** Python (Fluent); [Shell, C] (Basic)
+* **Simulation data analysis:** IllustrisTNG; FIRE; RASCAS; YT-project
+* **Programming Language:** Python (Fluent); [Shell, C] (Basic)
   
 Teaching
 ======
