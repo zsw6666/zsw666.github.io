@@ -11,27 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, Department of Astronomy, Tsinghua University, China (Sep. 2018 - Oct. 2023).
+  * *Thesis: Studying the CGM Through Observations, Cosmological Simulations, and Semi-analytic Model*
+  * *Advisor: Zheng Cai*
+* BS in Physics, Department of Physics, Guangxi University, China (Sep. 2014 - Jun. 2018).
 
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Center for Astronomical Computing, Zhejiang Lab, China (Dec. 2023 - present)
+  * *Host: Donghui Quan*
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Awards
+======
+* Excellent Doctoral Thesis of Tsinghua University (*awarded to two graduate students in the department this year*), 2024
+* Postdoctoral innovation talent support program of China (*top ten percent*), 2024
+* President Scholarship of Guangxi University (*Highest student award*), 2018
+* Outstanding Graduates of Guangxi University, 2018
   
+Talks
+======
+* Guo Shoujing Conference, Nov. 2020, China
+  * *Contributed talk: Using Emission and Absorption to Study the High Redshift Circumgalactic Medium (CGM)*
+* Workshop of Galaxy Star Formation and Nuclear Activity, Dec. 2020, China
+  * *Invited talk: Studying the High redshift CGM-galaxy Ecosystem through the Emission and Absorption*
+* X-talk & DOA Lunch Talk, Jun. 2023, China
+  * *Invited talk: Studying the Circumgalactic Medium (CGM) Through Observations, Cosmological Simulations, and Semi-analytic Model*
+* Astronomical Computing Workshop, Mar. 2024, China
+  * *Invited talk: Studying the Circumgalactic Medium (CGM) and galaxy Ecosystem through the Extended Emission (SCAME$^{3}$)*
+* Chinese Space Station Telescope (CSST) Annual Conference, May 2024, China
+  * *Invited talk: Studying the metal-enriched Circumgalactic Medium (CGM) through the Extended Emissions and CSST prospect*
+ 
 Skills
 ======
 * Skill 1
@@ -40,18 +51,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
