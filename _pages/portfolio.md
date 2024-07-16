@@ -26,7 +26,7 @@ Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emi
 **Intro:** Exploring the physical nature of the high-z active galactic nucleus (AGN) has been a hot topic in recent years. Some observations find that the well-accepted AGN unified model seems to be invalid at high redshift. Instead, observational evidence supports that the high-z AGN is likely to follow the `evolutionary scenario`, in which the obscured AGN evolves to the unobscured stage by sweeping off the surrounding dust and gas through the powerful feedback. Nevertheless, directly resolving the small-scale AGN structure at high redshift is beyond current observational ability. In this study, we prompt a new approach to test the AGN unified model through the CGM extended emissions. By simulating the CGM extended emissions (Lya, HeII, Ha, and CIV) based on the unified model with the FIRE simulations, we can explore the difference in the CGM emissions of the unobscured and obscured AGN. Such comparison will help us to figure out How the CGM extended emission can be used for testing the AGN unified model. 
 
 
-![fig_zhang2023b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024a.png)
+![fig_zhang2024a](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024a.png)
 
 
 Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emission (SCAME$$^{3}$$) II: Exploring the cool gas around unobscured and obscured AGN at $$z=2-3$$ through Keck Cosmic Web Imager (KCWI)
@@ -34,4 +34,4 @@ Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emi
 
 **Intro:** 
 
-![fig_zhang2023b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024b.png)
+![fig_zhang2024b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024b.png)
