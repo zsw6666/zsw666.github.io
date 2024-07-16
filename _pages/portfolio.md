@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Welcome!"
+title: "Research!"
 author_profile: true
 ---
 
