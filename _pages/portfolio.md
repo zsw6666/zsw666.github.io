@@ -27,3 +27,11 @@ Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emi
 
 
 ![fig_zhang2023b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024a.png)
+
+
+Studying the CircumgAlactic Medium and galaxy Ecosystem through the Extended Emission (SCAME$$^{3}$$) II: Exploring the cool gas around unobscured and obscured AGN at $$z=2-3$$ through Keck Cosmic Web Imager (KCWI)
+====
+
+**Intro:** 
+
+![fig_zhang2023b](https://zsw6666.github.io/zsw666.github.io/images/Zhang2024b.png)
