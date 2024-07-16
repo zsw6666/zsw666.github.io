@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Welcome!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 My name is **Shiwu Zhang (张世武)**. I am a postdoc at the Research Center for Astronomical Computing, Zhejiang Lab, China. 
 
 I am interested in exploring the ecosystem of galaxies and their gas environment at the high redshift. 
