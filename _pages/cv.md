@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Please find the pdf version [here](https://zsw6666.github.io/zsw666.github.io/files/resume_astro_en.pdf)
 
 {% include base_path %}
 
@@ -58,3 +57,7 @@ Service
 ======
 * I co-organized the Galaxy and Cosmology workshop at DoA, Tsinghua University, Mar. 2022 - Jun. 2022
 * I co-organized the Student Seminar at DoA, Tsinghua University, Sep. 2019 - Dec. 2019
+
+
+
+Please find the pdf version [here](https://zsw6666.github.io/zsw666.github.io/files/resume_astro_en.pdf)
