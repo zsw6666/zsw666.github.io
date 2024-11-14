@@ -25,7 +25,7 @@ Work experience
 
 Awards
 ======
-* Excellent Doctoral Thesis of Tsinghua University (*The only graduate students in the department this year*), 2024
+* Excellent Doctoral Thesis of Tsinghua University (*The only graduate student in the department this year*), 2024
 * Fellowship of China National Postdoctoral Program for Innovative Talents (*top ten percent*), 2024
 * President Scholarship of Guangxi University (*Highest student award*), 2018
 * Outstanding Graduates of Guangxi University, 2018
