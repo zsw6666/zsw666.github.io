@@ -29,7 +29,7 @@ Testing the AGN unified model with simulated emission lines from the circumgalac
 ![fig_zhang2024a](https://zsw6666.github.io/zsw666.github.io/images/Zhang_2025.png)
 
 
-Revealing the connection between the CGM nebulae and SMBH at $$z=2-3$$ through the Keck Cosmic Web Imager (KCWI)?
+Revealing the connection between the CGM and SMBH at $$z=2-3$$ through the Keck Cosmic Web Imager (KCWI)?
 ====
 **Intro:** By exploring the nebulae at $$z=3-2$$ collected by KCWI in 2017-2023, we find that the extent of the Ly$$\alpha$$ nebulae which is quantified by the scale length ($$r_{\rm h}$$) connects to the mass of the supermassive black hole. This could be a unversial correlation for high-$$z$$ quasars which can help us to understand the evolution of the SMBH. This work is under preparation. 
 ![fig_zhang2024b](https://zsw6666.github.io/zsw666.github.io/images/Zhang_inprep.png)
